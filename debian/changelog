@@ -1,3 +1,9 @@
+notify-osd (0.9.35+15.04.20150126-1blankon5) uluwatu; urgency=medium
+
+  * Rebuild
+
+ -- antosamalona <antosamalona@antosamalona>  Mon, 30 Apr 2018 20:41:06 +0800
+
 notify-osd (0.9.35+15.04.20150126-1blankon4) uluwatu; urgency=medium
 
   * Rebuild
