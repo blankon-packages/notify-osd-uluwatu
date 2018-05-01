@@ -1,3 +1,9 @@
+notify-osd (0.9.35+15.04.20150126-1blankon6) uluwatu; urgency=medium
+
+  * Rebuild again
+
+ -- antosamalona <ansamsoftdev@gmail.com>  Tue, 01 May 2018 13:35:18 +0800
+
 notify-osd (0.9.35+15.04.20150126-1blankon5) uluwatu; urgency=medium
 
   * Rebuild
